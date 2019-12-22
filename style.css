@@ -1,0 +1,27 @@
+.head {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.p {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Footer {
+    background-color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Main content {
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: #dddddd;
+}
+
+
